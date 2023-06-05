@@ -1,2 +1,39 @@
 Left off:
-https://www.youtube.com/watch?v=5OdVJbNCSso&ab_channel=BroCode
+
+https://youtu.be/5OdVJbNCSso?t=2828
+
+
+Manual - https://dev.mysql.com/doc/refman/8.0/en/
+
+Select Queries from the Database:
+
+https://dev.mysql.com/doc/refman/8.0/en/retrieving-data.html
+
+https://dyclassroom.com/mysql/mysql-select-from-table
+
+Auto commit
+If you don't specify where to go in the table and you delete table refer to:
+
+https://youtu.be/5OdVJbNCSso?t=2266
+
+SET AUTOCOMMIT = OFF;
+
+then COMMIT;
+
+SELECT ALL * FROM (name of table)
+
+ROLLBACK;
+
+SELECT ALL * FROM (name of table) is back....
+
+to save change just run a COMMIT;
+
+Current date and time you can use now() or other methods mentioned:
+
+https://ubiq.co/database-blog/how-to-get-current-date-and-time-in-mysql/
+
+https://youtu.be/5OdVJbNCSso?t=2484
+
+Unique Constraint
+
+https://www.w3schools.com/mysql/mysql_unique.asp
