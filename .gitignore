@@ -1,6 +1,6 @@
 Left off:
 
-https://youtu.be/5OdVJbNCSso?t=2828
+https://youtu.be/5OdVJbNCSso?t=5677
 
 
 Manual - https://dev.mysql.com/doc/refman/8.0/en/
@@ -37,3 +37,41 @@ https://youtu.be/5OdVJbNCSso?t=2484
 Unique Constraint
 
 https://www.w3schools.com/mysql/mysql_unique.asp
+
+NOT NULL Constraint
+
+https://www.w3schools.com/mysql/mysql_notnull.asp#:~:text=By%20default%2C%20a%20column%20can,a%20value%20to%20this%20field.
+
+CHECK Constraint
+
+https://www.w3schools.com/mysql/mysql_check.asp
+
+DEFAULT Constraint
+
+https://www.w3schools.com/mysql/mysql_default.asp
+
+SQL FOREIGN KEY Constraint
+
+https://www.w3schools.com/sql/sql_foreignkey.asp
+
+MySQL JOINS
+
+https://www.w3schools.com/mysql/mysql_join.asp
+
+MySQL Functions
+
+https://dev.mysql.com/doc/refman/8.0/en/functions.html
+
+MySQL Logical Operators
+
+https://dev.mysql.com/doc/refman/8.0/en/logical-operators.html
+
+
+
+
+
+
+
+
+
+
