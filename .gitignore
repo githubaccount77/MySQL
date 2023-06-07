@@ -1,7 +1,6 @@
 Left off:
 
-https://youtu.be/5OdVJbNCSso?t=5677
-
+https://youtu.be/5OdVJbNCSso?t=7208
 
 Manual - https://dev.mysql.com/doc/refman/8.0/en/
 
@@ -54,7 +53,7 @@ SQL FOREIGN KEY Constraint
 
 https://www.w3schools.com/sql/sql_foreignkey.asp
 
-MySQL JOINS
+MySQL Joins
 
 https://www.w3schools.com/mysql/mysql_join.asp
 
@@ -65,6 +64,36 @@ https://dev.mysql.com/doc/refman/8.0/en/functions.html
 MySQL Logical Operators
 
 https://dev.mysql.com/doc/refman/8.0/en/logical-operators.html
+
+MySQL Wildcards
+
+https://www.w3schools.com/mysql/mysql_wildcards.asp
+
+MySQL ORDER BY Keyword
+
+https://www.w3schools.com/mysql/mysql_orderby.asp
+
+MySQL LIMIT Clause
+
+https://www.w3schools.com/mysql/mysql_limit.asp
+
+SQL Union Operator
+
+https://www.w3schools.com/sql/sql_union.asp
+
+MySQL Self Join
+
+https://www.w3schools.com/mysql/mysql_join_self.asp
+
+ MySQL Views
+
+https://www.w3schools.com/mysql/mysql_view.asp
+
+ https://dev.mysql.com/doc/refman/8.0/en/views.html
+
+
+
+
 
 
 
