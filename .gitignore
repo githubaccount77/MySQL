@@ -2,6 +2,10 @@ Left off:
 
 https://youtu.be/5OdVJbNCSso?t=9260
 
+Learn
+
+https://www.youtube.com/watch?v=e1VowGr3e3c&ab_channel=Training2SQLMSBI
+
 Manual - https://dev.mysql.com/doc/refman/8.0/en/
 
 Select Queries from the Database:
@@ -112,6 +116,18 @@ https://www.javatpoint.com/mysql-rollup
 MySQL ON DELETE CASCADE and ON DELETE SET NULL - Also part of FOREIGN KEYS
 
 https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html#:~:text=SET%20NULL%20%3A%20Delete%20or%20update,child%20table%20as%20NOT%20NULL%20.
+
+MySQL Store Procedure
+
+https://dev.mysql.com/doc/refman/8.0/en/create-procedure.html
+
+Delimiter - https://youtu.be/5OdVJbNCSso?t=9405
+
+MySQL Triggers
+
+https://dev.mysql.com/doc/refman/8.0/en/trigger-syntax.html
+
+
 
 
 
