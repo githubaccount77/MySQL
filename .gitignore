@@ -1,6 +1,6 @@
 Left off:
 
-https://youtu.be/5OdVJbNCSso?t=7208
+https://youtu.be/5OdVJbNCSso?t=9260
 
 Manual - https://dev.mysql.com/doc/refman/8.0/en/
 
@@ -90,6 +90,30 @@ https://www.w3schools.com/mysql/mysql_join_self.asp
 https://www.w3schools.com/mysql/mysql_view.asp
 
 https://dev.mysql.com/doc/refman/8.0/en/views.html
+
+MySQL CREATE INDEX Statement
+
+https://www.w3schools.com/mysql/mysql_create_index.asp
+
+MySQL Subqueries
+
+https://dev.mysql.com/doc/refman/8.0/en/subqueries.html
+
+MySQL GROUP BY Statement
+
+https://www.w3schools.com/mysql/mysql_groupby.asp
+
+MySQL Rollup - extension of GROUPBY clause
+
+https://dev.mysq.com/doc/refman/8.0/en/group-by-modifiers.html
+
+https://www.javatpoint.com/mysql-rollup
+
+MySQL ON DELETE CASCADE and ON DELETE SET NULL - Also part of FOREIGN KEYS
+
+https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html#:~:text=SET%20NULL%20%3A%20Delete%20or%20update,child%20table%20as%20NOT%20NULL%20.
+
+
 
 
 
